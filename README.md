@@ -37,5 +37,5 @@ int main() {
 Credits:
 ```diff
 - Originally Written by EinTim23
-+ Rewritten by asuka2k/akiiinee (Akari)
++ Rewritten by Luna (transferred from my old github akiiinee)
 ```
